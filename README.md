@@ -52,6 +52,8 @@ public class FilterExample
 
 		assert numNeighbors > 0;
 		return new Color( red / numNeighbors, green / numNeighbors, blue / numNeighbors );
+
+          Break; // thilina
 	}
 
 	//helper method to determine if given coordinates are in bounds
